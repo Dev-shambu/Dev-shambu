@@ -1,4 +1,4 @@
-![logo](https://github.com/Dev-shambu/Dev-shambu/blob/main/Github%20Banner.png)
+![logo](https://github.com/Dev-shambu/Dev-shambu/blob/main/Github%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Shambu Nath Singh</h1>
 <h3 align="center">A passionate front-end developer from India</h3>
