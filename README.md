@@ -7,11 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shambunathsingh&label=Profile%20views&color=0e75b6&style=flat" alt="shambunathsingh" /> </p>
 
-- 🌱 I’m currently learning **Laravel and React Js**
-
 - 👨‍💻 All of my projects are available at [https://linktr.ee/shambunathsingh](https://linktr.ee/shambunathsingh)
 
-- 💬 Ask me about **Bootstrap, PHP and Wordpress**
+- 💬 Ask me about **Bootstrap, PHP and Laravel**
 
 - 📫 How to reach me **shambu.singh096@gmail.com**
 
